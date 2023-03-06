@@ -1,0 +1,2 @@
+import{A as t}from"./index-b2057588.js";import"./index-c4e9f250.js";import"./iframe-c7d2ef35.js";import"./index-72911c24.js";import"./jsx-runtime-600dc5d0.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/JuniorLima36.png",alt:"Junior Lima"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories-071f902b.js.map
